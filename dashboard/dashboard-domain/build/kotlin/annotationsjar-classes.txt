@@ -1,0 +1,1 @@
+/Users/fabianrump/Documents/IntelliJ/KSP/annotations/build/classes/kotlin/main/de/ams/LoggerFunction.class

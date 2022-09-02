@@ -1,0 +1,1 @@
+/Users/Rump/Documents/IntelliJ/ksp_kkon/annotations/build/classes/kotlin/main/de/ams/Data.class:/Users/Rump/Documents/IntelliJ/ksp_kkon/annotations/build/classes/kotlin/main/de/ams/Domain.class:/Users/Rump/Documents/IntelliJ/ksp_kkon/annotations/build/classes/kotlin/main/de/ams/KoinType.class

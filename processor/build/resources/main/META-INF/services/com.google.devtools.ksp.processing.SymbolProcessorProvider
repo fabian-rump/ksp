@@ -1,0 +1,4 @@
+de.ams.domain.DomainProcessorProvider
+de.ams.data.DataProcessorProvider
+de.ams.general.GeneralProcessorProvider
+de.ams.di.DIProcessorProvider
